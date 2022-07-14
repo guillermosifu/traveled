@@ -1,0 +1,61 @@
+.nav{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.ul-ecommerce {
+  margin-top: 20px;
+  display: flex;
+  justify-content:space-between;
+  list-style: none;
+}
+.ul-ecommerce li a {
+  text-decoration: none;
+}
+/* .txt-field {
+  width: 50px;
+  text-align: center;
+}
+ */
+.img-logo {
+  width: 100px;
+  height: 100px;
+}
+
+.li-basket {
+  display: flex;
+  align-items: center;
+}
+
+.foot_princ {
+  background-image: url(../../assets/Image/img-foot.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 75%;
+  min-height: 300px;
+  height: 100%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.title-foot {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+
+.foot-copy {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.card-foot {
+  font-weight: 700;
+}
+
+.img-red {
+  margin-top: 10px;
+}
